@@ -1,4 +1,5 @@
 # Computer Graphics Project using graphics.h Library
+# Shadows in the Rain: A Tale of Two Souls Lost in the Night
 # Introduction
 This project is a simple demonstration of computer graphics using the graphics.h library in C/C++. It provides basic functionalities to draw shapes, lines, and colors on the screen.
 
