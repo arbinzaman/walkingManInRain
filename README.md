@@ -29,5 +29,10 @@ All Copyright Reserved to Team Lesurely Loco
 Thanks to the authors of the graphics.h library for providing a simple yet powerful tool for learning computer graphics.
 Special thanks to our contributors for their valuable feedback and suggestions.
 
+# Project Presentation 
+
+https://www.canva.com/design/DAGE2cf95x0/oDWFaCimNPT0B8JC2QZxng/edit?utm_content=DAGE2cf95x0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Project Preview
 
 [![Project preview](/ezgif-7-3d09055d37.gif)]
