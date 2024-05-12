@@ -30,4 +30,4 @@ Thanks to the authors of the graphics.h library for providing a simple yet power
 Special thanks to our contributors for their valuable feedback and suggestions.
 
 
-[![Project preview](/Screenshot_20230107_201026.png)]
+[![Project preview](/ezgif-7-3d09055d37.gif)]
