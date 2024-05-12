@@ -28,3 +28,6 @@ All Copyright Reserved to Team Lesurely Loco
 # Acknowledgments
 Thanks to the authors of the graphics.h library for providing a simple yet powerful tool for learning computer graphics.
 Special thanks to our contributors for their valuable feedback and suggestions.
+
+
+[![Project preview](/Screenshot_20230107_201026.png)]
